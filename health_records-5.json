@@ -1,0 +1,212 @@
+[
+  {
+    "record_id": "HR-001",
+    "patient_id": "PAT-25994",
+    "patient_name": "Pamela Peters",
+    "patient_dob": "2000-06-05",
+    "date_of_service": "2024-06-24T16:36:17.951622+0000",
+    "referring_doctor": "DR-91762",
+    "chief_complaint": [
+      "Fatigue",
+      "Blurred vision"
+    ],
+    "allergies": [
+      "Soy",
+      "Milk",
+      "Eggs"
+    ],
+    "medications": [
+      "Paracetamol",
+      "Prednisone",
+      "Atorvastatin"
+    ],
+    "problem_list": [
+      "Obesity",
+      "Migraines",
+      "Anxiety"
+    ],
+    "patient_sex": "Female",
+    "address": "871 Donald Valleys",
+    "city": "Colombo",
+    "state": "Western",
+    "zip": "00700",
+    "patient_phone": "0722840975",
+    "lbf_data": [
+      "LBF101:6.4",
+      "LBF102:12.3",
+      "LBF103:112/82"
+    ],
+    "his_data": [
+      "HIS005",
+      "HIS004"
+    ]
+  },
+  {
+    "record_id": "HR-002",
+    "patient_id": "PAT-75043",
+    "patient_name": "Michelle Zavala",
+    "patient_dob": "1996-05-10",
+    "date_of_service": "2024-06-25T16:36:17.951622+0000",
+    "referring_doctor": "DR-48931",
+    "chief_complaint": [
+      "Fever",
+      "Cough"
+    ],
+    "allergies": [
+      "Eggs",
+      "Latex",
+      "Milk"
+    ],
+    "medications": [
+      "Albuterol",
+      "Prednisone",
+      "Other"
+    ],
+    "problem_list": [
+      "Back Pain",
+      "Asthma",
+      "Diabetes"
+    ],
+    "patient_sex": "Female",
+    "address": "43884 Andrew Trafficway Suite 074",
+    "city": "Colombo",
+    "state": "Western",
+    "zip": "00700",
+    "patient_phone": "0784752861",
+    "lbf_data": [
+      "LBF101:5.0",
+      "LBF102:11.6",
+      "LBF103:125/78"
+    ],
+    "his_data": [
+      "HIS005",
+      "HIS006"
+    ]
+  },
+  {
+    "record_id": "HR-003",
+    "patient_id": "PAT-68824",
+    "patient_name": "Julia Perez",
+    "patient_dob": "1976-11-13",
+    "date_of_service": "2024-11-28T16:36:17.952980+0000",
+    "referring_doctor": "DR-45452",
+    "chief_complaint": [
+      "Fever",
+      "Cough"
+    ],
+    "allergies": [
+      "Shellfish",
+      "Penicillin",
+      "Milk"
+    ],
+    "medications": [
+      "Ibuprofen",
+      "Amoxicillin",
+      "Other"
+    ],
+    "problem_list": [
+      "Other",
+      "Anxiety",
+      "Obesity"
+    ],
+    "patient_sex": "Other",
+    "address": "55940 Dean Trace Suite 107",
+    "city": "Colombo",
+    "state": "Western",
+    "zip": "00700",
+    "patient_phone": "0772959892",
+    "lbf_data": [
+      "LBF101:4.7",
+      "LBF102:11.7",
+      "LBF103:129/87"
+    ],
+    "his_data": [
+      "HIS007",
+      "HIS007"
+    ]
+  },
+  {
+    "record_id": "HR-004",
+    "patient_id": "PAT-86718",
+    "patient_name": "Sarah Mcdaniel",
+    "patient_dob": "2001-04-26",
+    "date_of_service": "2024-09-04T16:36:17.952980+0000",
+    "referring_doctor": "DR-46772",
+    "chief_complaint": [
+      "Cough",
+      "Fatigue"
+    ],
+    "allergies": [
+      "Dust",
+      "Nuts",
+      "Eggs"
+    ],
+    "medications": [
+      "Ibuprofen",
+      "Amoxicillin",
+      "Prednisone"
+    ],
+    "problem_list": [
+      "Asthma",
+      "Arthritis",
+      "Diabetes"
+    ],
+    "patient_sex": "Male",
+    "address": "408 Miles Skyway",
+    "city": "Colombo",
+    "state": "Western",
+    "zip": "00700",
+    "patient_phone": "0734356898",
+    "lbf_data": [
+      "LBF101:6.7",
+      "LBF102:12.9",
+      "LBF103:125/85"
+    ],
+    "his_data": [
+      "HIS002",
+      "HIS006"
+    ]
+  },
+  {
+    "record_id": "HR-005",
+    "patient_id": "PAT-67785",
+    "patient_name": "Robert Beck",
+    "patient_dob": "1934-10-27",
+    "date_of_service": "2025-02-28T16:36:17.952980+0000",
+    "referring_doctor": "DR-70870",
+    "chief_complaint": [
+      "Nausea",
+      "Blurred vision"
+    ],
+    "allergies": [
+      "Latex",
+      "Soy",
+      "Nuts"
+    ],
+    "medications": [
+      "Omeprazole",
+      "Amoxicillin",
+      "Prednisone"
+    ],
+    "problem_list": [
+      "Migraines",
+      "Other",
+      "Obesity"
+    ],
+    "patient_sex": "Other",
+    "address": "2875 Kane Prairie",
+    "city": "Colombo",
+    "state": "Western",
+    "zip": "00700",
+    "patient_phone": "0774176649",
+    "lbf_data": [
+      "LBF101:6.5",
+      "LBF102:13.1",
+      "LBF103:124/71"
+    ],
+    "his_data": [
+      "HIS006",
+      "HIS001"
+    ]
+  }
+]
